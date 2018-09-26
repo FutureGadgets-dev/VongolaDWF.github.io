@@ -8,7 +8,7 @@ categories: Logout-Log-Test
 Video Beta Test
 
 <!-- <video id="my-video" class="video-js" controlspreload="auto" width="640" height="264" data-setup="{}"> -->
-<video muted autoplay controls loop>
+<video muted autoplay controls loop width="640" height="320">
     <source src="../../../../LogFile/Test.mp4" type='video/mp4'>
     <!-- <p class="vjs-no-js">
         To view this video please enable JavaScript, and consider upgrading to a web browser that
