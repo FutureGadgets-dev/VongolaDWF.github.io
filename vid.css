@@ -1,4 +1,4 @@
-//main.scss
+/* //main.scss */
 
 h1{
     color: #50525c;
@@ -92,9 +92,9 @@ a{
     position: relative;
     min-width: 500px;
     height: 1000px;
-    // background-image: url("");
+    /* background-image: url(""); */
     background-color: #5a81c9;
-    //align-content: center;
+    /* //align-content: center; */
     padding-left: 10%;
     padding-right:10%;
     padding-top:10%;
@@ -104,9 +104,9 @@ a{
     position: relative;
     min-width: 500px;
     height: 1000px;
-    // background-image: url("");
+    /* // background-image: url(""); */
     background-color: #b4c1e4;
-    //align-content: center;
+    /* //align-content: center; */
     padding-left: 10%;
     padding-right: 10%;
 }
@@ -115,7 +115,7 @@ a{
     position: relative;
     min-width: 500px;
     height: 1000px;
-    // background-image: url("");
+    /* // background-image: url(""); */
     background-color: #5a81c9;
     padding-left: 10%;
     padding-right: 10%;
@@ -128,7 +128,7 @@ a{
     background-color: #858484;
 }
 
-// footer:a{
+/* // footer:a{
 //     align-items: baseline;
 // }
 
@@ -138,4 +138,4 @@ a{
 
 // image:hover{
 //     size: 50px;
-// }
+// } */
