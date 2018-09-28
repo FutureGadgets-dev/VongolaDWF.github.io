@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Video Logout 2"
+title:  "Video Logout 1"
 date:   2018-09-28
 categories: Logout-Log-Test
 ---
