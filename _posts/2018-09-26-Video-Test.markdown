@@ -8,5 +8,5 @@ categories: Logout-Log-Test
 Video Beta Test
 
 <video muted controls loop width="640" height="320">
-    <source src="../../../../LogFile/Test.mp4" type='video/mp4'>
+    <source src="../../../../LogFile/Test_Beta.mp4" type='video/mp4'>
 </video>
